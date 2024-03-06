@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif" align="center" style="width: 100%" />
+<img src="https://osiinfotech.com/wp-content/uploads/2022/06/Leading-cyber-security-companies-in-Dubai.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -58,7 +58,7 @@
 <a href="https://github.com/gnklakshan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/nuwan-kavindu-lakshan/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
