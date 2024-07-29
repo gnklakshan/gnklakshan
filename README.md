@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Geeganage Nuwan Kavindu Lakshan <br>A full-time undergraduate student studying Ccomputer Engineering 👨‍💻</div>   
+## <div align="center">I'm Geeganage Nuwan Kavindu Lakshan <br>A full-time undergraduate student studying Computer Engineering 👨‍💻</div>   
 
 - 🔭 Currently working on mobile app development and exploring new technologies.
   
