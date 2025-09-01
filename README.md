@@ -5,7 +5,7 @@
 ---
 
 ## <div align="center" style="font-size: 2.5rem; font-weight: bold; color: #6C63FF; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">👋 Hi, I'm Geeganage Nuwan Kavindu Lakshan</div>  
-<div align="center" style="font-size: 1.2rem; color: #666; margin-top: 10px;">Computer Engineering Student 🎓 | Full-Stack Developer 💻 | Tech Innovator 🚀</div>  
+<div align="center" style="font-size: 1.2rem; color: #666; margin-top: 10px;">Computer Engineering Student 🎓 | AI/ML Enthusiast | Full-Stack Developer 💻 | Tech Innovator 🚀</div>  
 
 ---
 
